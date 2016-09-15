@@ -1,0 +1,2 @@
+Diseñe un programa que calcule el valor del costo mensual en pasajes de locomoción colectiva sabiendo el valor de pasaje y la cantidad de viajes diarios a la semana. Se considerará la semana de 5 días solamente (lunes a viernes).
+
